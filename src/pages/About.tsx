@@ -3,33 +3,27 @@ import React from 'react';
 const team = [
   {
     name: 'Madusha Nuwan',
-    role: 'Team Leader',
     image: '../../assests/team/madusha.jpg',  // Replace with your image path
-    bio: 'Educational psychology expert with 15 years of experience in dyslexia research.'
   },
   {
     name: 'Uthpala',
-    role: 'Head of AI Development',
-    image: '../../assests/team/madusha.jpg',  // Replace with your image path
-    bio: 'AI specialist focused on creating adaptive learning algorithms.'
+    image: '../../assests/team/Uthpala.jpg',  // Replace with your image path
+    
   },
   {
     name: 'Teeshan',
-    role: 'Learning Experience Designer',
     image: '../../assests/team/teeshan.jpg',  // Replace with your image path
-    bio: 'Expert in creating engaging and accessible educational content.'
+    
   },
   {
     name: 'Ruhini',
-    role: 'Research Director',
-    image: '../../assests/team/madusha.jpg',  // Replace with your image path
-    bio: 'Leading research initiatives in learning technologies and methodologies.'
+    image: '../../assests/team/Ruhini.jpg',  // Replace with your image path
+    
   },
   {
     name: 'Kithmini',
-    role: 'Research Director',
-    image: '../../assests/team/madusha.jpg',  // Replace with your image path
-    bio: 'Specializing in educational technologies and their application in dyslexia research.'
+    image: '../../assests/team/Kithmini.png',  // Replace with your image path
+    
   }
 ];
 
