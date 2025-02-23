@@ -31,13 +31,10 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Connect With Us</h4>
             <div className="flex space-x-4">
-              <a href="#" className="hover:text-white transition-colors">
+              <a href="https://www.facebook.com/share/1HVKbsJLrV/?mibextid=qi2Omg" className="hover:text-white transition-colors">
                 <Facebook className="w-5 h-5" />
               </a>
-              <a href="#" className="hover:text-white transition-colors">
-                <Twitter className="w-5 h-5" />
-              </a>
-              <a href="#" className="hover:text-white transition-colors">
+              <a href=" https://www.instagram.com/lexeralife_ " className="hover:text-white transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
               <a href="#" className="hover:text-white transition-colors">

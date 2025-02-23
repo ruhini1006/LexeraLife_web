@@ -4,31 +4,31 @@ const team = [
   {
     name: 'Madusha Nuwan',
     role: 'Team Leader',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    image: '../../assests/team/madusha.jpg',  // Replace with your image path
     bio: 'Educational psychology expert with 15 years of experience in dyslexia research.'
   },
   {
     name: 'Uthpala',
     role: 'Head of AI Development',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    image: '../../assests/team/madusha.jpg',  // Replace with your image path
     bio: 'AI specialist focused on creating adaptive learning algorithms.'
   },
   {
     name: 'Teeshan',
     role: 'Learning Experience Designer',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    image: '../../assests/team/teeshan.jpg',  // Replace with your image path
     bio: 'Expert in creating engaging and accessible educational content.'
   },
   {
     name: 'Ruhini',
     role: 'Research Director',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    image: '../../assests/team/madusha.jpg',  // Replace with your image path
     bio: 'Leading research initiatives in learning technologies and methodologies.'
   },
   {
     name: 'Kithmini',
     role: 'Research Director',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    image: '../../assests/team/madusha.jpg',  // Replace with your image path
     bio: 'Specializing in educational technologies and their application in dyslexia research.'
   }
 ];

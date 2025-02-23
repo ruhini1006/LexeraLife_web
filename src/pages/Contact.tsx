@@ -91,7 +91,7 @@ export default function Contact() {
                   <Phone className="w-6 h-6 text-indigo-600 mt-1" />
                   <div className="ml-4">
                     <h3 className="font-medium">Phone</h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+94 767658058</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -99,8 +99,8 @@ export default function Contact() {
                   <div className="ml-4">
                     <h3 className="font-medium">Location</h3>
                     <p className="text-gray-600">
-                      123 Innovation Drive<br />
-                      San Francisco, CA 94105
+                      Sri Lanka<br />
+                      colombo
                     </p>
                   </div>
                 </div>
