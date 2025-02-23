@@ -9,8 +9,8 @@ const steps = [
   },
   {
     icon: UserCircle,
-    title: 'Get Personalized Plan',
-    description: 'Receive a customized learning plan based on your assessment results.'
+    title: 'Gamify your Learning',
+    description: 'Enjoy learing as you interact with our custom game.'
   },
   {
     icon: Rocket,
