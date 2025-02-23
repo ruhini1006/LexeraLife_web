@@ -1,8 +1,8 @@
 // HeroSection.tsx
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import * as THREE from 'three';
 import { ArrowRight } from 'lucide-react';
-import myBrainLogo from '../../assests/logo.png'; // Your custom logo
+import myBrainLogo from '../assets/logo-xX1k-3HU.png'; // Your custom logo
 
 export default function HeroSection() {
   useEffect(() => {
