@@ -16,12 +16,8 @@ const features = [
     icon: GamepadIcon,
     title: 'Interactive Learning',
     description: 'Engaging games and activities designed to make learning fun while improving reading and writing skills.'
-  },
-  {
-    icon: LineChart,
-    title: 'Progress Tracking',
-    description: 'Monitor improvements with detailed analytics and progress reports tailored to individual goals.'
   }
+  
 ];
 
 export default function FeaturesSection() {
